@@ -1,0 +1,19 @@
+(Review for version #[1.0.24] #2014/12/11)
+
+Endless Legend is a 4X (explore, expand, exploit, and exterminate; Sid Meier's Civilization is an important example of the 4X era) turn based fantasy game.
+
+It's really difficult   for an old strategist like me   to find something wrong within the game. 
++The visuals are stunning, 
++the soundtrack is harmonic and match the turn based gameplay, 
++the combat system is simple, yet interesting,
++a modern transparent UI,
++Customizable race and units and 
++Mod support.
+(Also the lore is quite fascinating)
+
+But!   like every pro   there is critic:
+ Like in other strategy games, there's a lack of AI performance. If you turn up the difficulty, it will just provide higher buffs (like more money, more science etc.) for the AI. It could simulate a challenge for someone, but for others it's just cheating and unfair. (I will deny my own opinion in this regard)
+
+
+Overall, good stuff. Not bad for an Indie game. This game tried some new ideas and implemented those successful.
+8.5/10

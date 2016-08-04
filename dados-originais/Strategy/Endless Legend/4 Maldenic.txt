@@ -1,0 +1,24 @@
+This is a 4X game with some interesting new mechanics, which mostly work well. For me it's basically the Sword of the Stars (1, not 2) of land-based 4X. The things that I enjoy most are the city management system and that you don't have to go wide to win, though there certainly are advantages to rapid expansion. I beat the game on the hardest difficulty with the one-city-only faction.
+
+If I was giving it a score I'd probably say 8. It isn't as polished and well-rounded as Civ V, but I find it to be more fun and interesting.
+
+- Looks much prettier than Beyond Earth.
+- Lots of people praise the music. I wouldn't say it's the greatest, but it is solid.
+- All the factions are interesting and different. Each has a gimmick, though they don't all suit the playstyles that the developers intended.
+- The hero system can be annoying at times, since some heroes are just completely better than others, and it is random chance which ones you'll be given access to (though starting heroes are always the same).
+- As with many 4X games, it suffers from the fact that the victory conditions can be pretty meaningless. Literally the fastest way to win a diplomacy victory is to continually break your alliances and reform them each turn. Also, once you start winning, you may as well just kill everyone else immediately rather than waiting to get a science victory or whatever.
+- Combat can be very tedious; I recommend increasing the combat animation speed immediately. Also, do not underestimate the importance of initiative in combat. Each unit only gets one attack/counterattack, and the default counterattack overrides all except one of the special attacks.
+- You have to work out a lot of the mechanics for yourself. This game does not hold your hand. Reading a guide on city leveling/building is almost mandatory.
+- Harder difficulties are legit challenging.
+- Quests system is robust enough, but some of them are fairly stupid and/or impossible.
+- Strategic and luxury resources all have meaningful differences and advantages.
+
+Some basic info so you can work out if it is the game for you:
+
+Hex-based movement. Out of combat movement is in army stacks with movement of slowest unit, but combat is in a 6-turn battle/encounter where the units split into one-unit-per-tile. This encourages you to build armies which complement each other out of different unit types.
+
+Cities work differently to most other games of the genre. The population is essentially all "specialists", to use the Civ term, where each unit of population can be used to create (base) 4food/4industry/4science/4dust/2influence depending on your priorities that turn. Food, industry, etc. on terrain adjacent to the city is automatically collected, and you can expand the city by building districts in adjacent hexes to increase the area being passively collected from.
+
+The world is divided into regions, and you can only have one city per region. This makes city placement be really important, and leads to important decisions as to city expansion.
+
+Units are upgradeable with equipment. Each faction has three unique base units, and you can assimilate up to three minor factions to get a faction-unique buff and their factions unit. eg. assimilate the Haunts to get 5% to science per Haunt village in your territory, and build "Ended" which are flying ghosts with a chain lightning attack.

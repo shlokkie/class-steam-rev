@@ -1,0 +1,3 @@
+An epic game where your goal is to press the "NEXT TURN" button over and over, every few seconds.
+
+Sometimes, as a special treat, you get to click other things!!

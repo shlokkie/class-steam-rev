@@ -1,0 +1,63 @@
+The pros and cons as I see it (compared to other TW games) based on the campaign (single and multiplayer)
+
+EDIT: THIS REVIEW IS OF THE VANILLA GAME WITHOUT MODS. Please read the review before making critical comments, as I'm bored of having to repeat myself for people who couldn't be bothered.
+
+Pros:
+  campaign map environments are varied and atmospheric
+  graphics especially in battles are beautiful
+  small details such as rocks hitting walls then falling to the ground, & remaining lethal while in motion adds to the immersion
+  army/navy military traditions and generals/agents traits create a satisfying long term progression over the campaign
+  The conversations and comments among soldiers during battles are amusing and add immersion
+
+Cons:
+  Naval combat and boat physics is abysmal, the worst yet by far.
+  Naval AI is feeble.
+  Autoresolve calculations are extremely bad, making small and uninteresting battles often compulsory to play to prevent ridiculously unrealistic outcomes.
+  When autoresolving, siege equipment is invariably the heaviest casualty, even on a 98% victory I have had entire units of Heavy Onagers wiped out entirely. Cavalry often suffers disproportionaly high casualties as well.
+  Diplomacy is still terrible, despite what they say about improving it: nations with 1 village demanding tens of thousands of gold for a non aggression pact when you control half the game world...
+  Unable to specify amounts of money in diplomatic negotiations, instead having to select a percentage of your total treasury.
+  Pikemen were the one unit which actually behaved realistically upon release, moving forward relentlessly into the enemy lines and encircling cornered enemies. That has since been "fixed" and they now stand gormlessly in a dead straight line, even when "formation attack" is unticked.
+  Roman legionary units fight in the same style as barbarians, with single men constantly breaking formation to have a 1v1...
+  "Growth" becomes worthless after about 50 turns, whereas in all previous games it continues to be beneficial.
+  Desyncs in multiplayer campaigns are not uncommon, and often void the save.
+  Barbarian units are far too disciplined and tightly regimented. Essentially just reskins of helenistic or roman unit columns.
+  Barbarians have access to the same siege equipment as the Romans and Greeks (with the exception of the Polybolos, which barely counts as it is the most useless of all the siege units)
+  Many available buildings, such as the slave trader or wine markets, are completely redundant and offer nothing that isn't easily bested by other buildings.
+
+
+Overall this game has been a major let down, and I wasn't even one of the ones who was super hyped about a Rome 2! Add to all this the constant releasing of new DLC which   even if you do not buy it   downloads automatically, rendering all mods incompatible! (but remains unavailable until you pay for the handful of half baked reskins of pre existing units & new menu screen that it contains)
+
+
+Its not all terrible. With enough modding it does become relatively enjoyable and worth investing some hours in. So as long as you are prepared to spend the time finding the right mods to address the multitudes of issues, and are willing to endure the frustration of having them periodically disabled by some new piece of unrequested DLC inviting itself into your install, then it is worth a look. Otherwise, its not a good call.
+
+
+I would love to love this game, it has so much potential, but unfortunately I cannot recommend it to anyone, especially not fans of the series such as myself, as it has seriously damaged my faith in Total War.
+
+                                                                                                     
+
+(Update 31/01/15):
+Few more cons that I didn't mention first time around (the list is so long its hard to remember them all!)
+
+  Campaign AI is idiotic regarding threats. An enemy army garrisons a town. I move an army into the region in preparation for attack. Next turn, the enemy army has gone and the town is completely undefended. Bad AI and an opportunity for a fun siege battle ruined.
+
+  I have never seen campaign AI recruit the top tier units for Roman or Hellenistic factions. Even 250+ turns into the game I'm fighting against armies of militia hoplites + slingers.
+
+  Amphibious battles: AI frequently leaves one or two ships out at sea, so after killing their land forces the only way to "win" is to sit there on fast forward for the next 20 minutes while the clock ticks down. 
+(NB: If you have selected "Unlimited" battle time, this situation can not be won, you must quit battle and be given a defeat, or reload and autoresolve. Yup, one ship containing 10 levy freemen can defeat your force of 1000+ elite troops just by sitting at sea, doing nothing!)
+
+  "Fast forward" in battles increases game speed by about 3%....
+
+  Pathing for siege engines and siege equipped ships is terrible. Instructions to shoot at targets within range often just results in the engine walking/sailing slowly towards the target, not shooting at it.
+
+  "Fire at will" often results in many friendly casualties, as they will simply attack the nearest target regardless of its proximity to friendly units. Shogun 2 was intelligent about this and did not have this problem. Rome 2 seems to have gone backwards here...
+
+  Cavalry frequently ignore orders to disengage from melee. Often the same order needs to be given 3 5 times before they actually attempt to escape the melee.
+
+  Cavalry frequently ignore orders to attack. If the enemy unit begins to run from the fight, your units will make no attempt to pursue or re engage them. This means MASSIVE micro management of cavalry units when fighting against skirmisher or archer cavalry, as each individual unit needs to be re instructed to attack several times throughout the battle. Failure to notice this results in your unit standing still whilst the enemy cavalry sit 20 feet away murdering them with javelins and arrows.
+
+  Ship ramming animations look like something from a cartoon. They are truly terrible. Again, Shogun 2 did this MUCH better. Heck, even Empire had better collision effects, and that game didn't even have a ramming mechanic!
+
+  Campaign map resources are.... a nice idea. However, one region of North Africa containing little more than sand and scrub supposedly supplies timber. Playing as Macedon, I found myself importing my timber from this North African region in order to build siege engines, despite occupying around a dozen heavily forested regions in Europe, none of which apparently had any access to timber... Nice idea, but ludicrously implemented.
+
+
+Keep in mind, ALL of these issues are reported from the Emperor edition. This is all after the game has supposedly been "fixed"..! Personally, Empire TW still beats this game, even now.

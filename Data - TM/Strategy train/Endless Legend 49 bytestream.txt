@@ -1,0 +1,67 @@
+Endless Legend is Amplitudes second 4X game. This time it's fantasy instead of space, but it still has the "Amplitude Spirit". By that I mean that the game looks neat, isn't too heavy on your rig, has a clean and easily accessible interface but does stuff differently than you probably would expect. While Endless Space was relatively true to the 4X space standards, Dungeon of the Endless deviated from the typical rogue like noticeably, and now, with Endless Legend they take it even a little bit further.
+
+
+Overview 
+At first glance Endless Legend looks like your typical hex based fantasy 4X; or it looks like it will turn into one once it is finished. You start the game with a small army on a randomly generated map and the ability to found a city. As with most other fantasy 4X games where you build your first city is important. Each city generates resources based on the hex it is build on and the 6 hexes surrounding it, which resources you want depends on the faction you play. From there on you start to explore the map with your starting army, looking for ruins to loot, roaming mobs to fight and villages to burn until you meant your first AI faction and start the typical dance of diplomacy and war.
+
+There are also heroes in Endless Legend which can either be assigned to a city or an army. Either way they gain experience and offer boni based on their skills. An army accompanied by a hero is much stronger than one without and a city with the right hero can be pretty effective. 
+
+Like most new 4X fantasy games Endless Legend has quests, but it does it a little bit differently. Quest are not just simple "fetch x kill y" missions, they also tell a story   at least the main quest which is different for each faction   and don't just give items or dust as a reward but can also give you access to technologies you can't get otherwise. So, searching ruins for quests is something you really want to do. 
+
+
+Regions, Cities and Empire Management 
+Once you start exploring the map you instantly notice that there is something different: The map is divided into regions.
+Regions come in different sizes and shapes but they always have a least one minor faction village and some special resources, which you can only harvest if you have a city in that region. But the most important thing about them is that there can always only be one city in each region. This doesn't only mean that whoever has a city in a region basically controls it, it also makes you really think about where you want to build your city.
+
+Over the course of the game cities can expand. You can build boroughs in hexes adjacent to a city centre or other boroughs and thereby gain access to resources that previously where out of reach. 
+
+
+Combat System 
+Endless Legend utilizes a turn based tactical combat system but doesn't give you full control over your units. At first, it is kinda weird but it has its charm and give the game a unique touch.
+Each battle starts with a deployment phase where you can place your units. After that you have multiple order and action phases. During the order phase you give you units orders which they than try to fulfil during the action phase. If they can't fulfil their order, e.g. cos the tile you want the to move to is already occupied by another unit or the unit you want them is already dead or out of reach, the AI will take over and let the unit do what it thinks is best. 
+
+Another neat thing about tactical battle is that they take place on the strategic map. When two opposing armies meet a battlefield is staked out around them which means that the area where you fight actually matters. This is especially true since elevation actually matters in Endless Legend and stuff like cliffs can block your movement paths. 
+You should think twice before you move an army next to a cliff where you opponent could attack them from above but they have no chance of reaching them.
+
+
+Customization 
+Endless Legend doesn't allow you to fully customize your units and heroes but you can give them equipment such as weapons, shields, armour and trinkets. In addition to items heroes have a skill tree that consist of 3 different line that are connected to each other. Which skills a hero has access to depends on its type (infantry, ranged, cavalry or flyer) and the faction you play.
+
+Each faction only has 3 units that will always do specific things and look a certain way. Equipment won't affect their appearance much nor will it allow you to change a units role. However, there are also quite a few minor faction units which you can recruit once you assimilated a village of their faction. This allows you to add troops to your army your faction otherwise wouldn't have access to. 
+
+
+Influence and Diplomacy 
+When it comes to diplomacy, which is also not fully implemented yet, Amplitude goes for a strange new but nonetheless interesting concept. They have a resource called influence which is needed for every diplomatic act, may it be offering peace, declaring war or assimilating a minor faction. 
+
+Every 20 turns you can also use influence to change your Empire Plan, which gives you different buffs based on what you pick. A neat little idea that helps you to adapt your global strategy a little bit.
+
+
+Major Factions
+There are 8 major factions in Endless Legend, some of them are pretty standard fantasy stuff others are rather unique and offer you a different approach to the game.
+
+The Vaulters are you typical science guys with a dwarfish love for crossbows. 
+The Wild Walkers are wood elves that left the woods to start a civilisation, they are you builders. 
+The Broken Lords are basically Dust vampires that have to purchase population.
+The Necrophases are warmongering insects that can't be at peace, ever.
+The Arden Mages are masochistic mages that grow stronger the more you hurt them.
+The Roving Clans are nomad traders that can't deny you access to the market place.
+The Drakken try to play world police, they like diplomacy and can force treaties.
+The Cultists only have one city but can convert pacified minor faction villages.
+
+
+Minor Factions
+Each region in Endless Legend has 1 3 villages of a minor faction in it. Unless pacified, which can either be done by bribing the, attacking the village or doing a quest, these villages will grow and spawn armies that will roam the map and cause havoc. 
+
+Once you have a city in a region with a pacified minor faction you can assimilate that minor faction which will add population to your city, give you some small bonuses and allow you to recruit a special unit.
+
+
+Winter is coming 
+There are two seasons in Endless Legend: Summer and winter. In summer everything is fine, your people are happy, your cities produce resources and your units can actually move. During winter however things are different. Suddenly you produce less food and dust, your people might get a little grumpy and your units can't move as far any more. 
+When winter is coming and how long it lasts is somewhat random. You know vaguely when to expect it, but you can't really be sure. And the longer you play the harsher the winter. 
+
+This adds another interesting layer to the game. While Endless Legend plays like a typical 4X during summer, winter changes the rules. Suddenly it becomes a survival game, if you haven't stockpiled enough food your people might starve and if you are low on dust your might have to destroy city improvements or disband armies cos you no longer can afford them. 
+Warfare is also quit different during winter. Units need way more time to reach their destinations, so it's probably not a good idea to send all your armies searching ruins when winter is coming.
+
+
+Multiplayer
+Well, Endless Legend has multiplayer. That's pretty much all I can say about it cos I never tried it. In my book, 4X games are meant to be played solo, on your own clock.

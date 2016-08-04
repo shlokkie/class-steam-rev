@@ -1,0 +1,51 @@
+Review Updated 6-15-2015
+Reason: To address comments, and remove negative feedback that has been addressed since the original post.
+
+
+I have mixed feelings on this game.
+From a more short term point of view, the game is awesome. What i mean by this is someone who wants to get the game, and play a couple matches, there is enough new and exciting content to make it worth it.
+
+But if you are looking for that game to match or rival Sid Meiers Alpha Centauri (that you still play after years), then this isnt it.
+
+In my opinion this game could be awesome. But the amount of bugs, glitches, broken and missing systems outweigh the positives, and that is why im giving it a negative review. Its like a computers game version of a 'tease'. "Here is all this awesome stuff...that i will fail to deliver." The AI makes single-player play only a short term option.
+
+Breakdown:
+
+Positives:
++ Each Faction has unique technologies and unique playstyle
++ Each Faction has unique units (changing factions forces you to change combat style)
++ Each Faction actually feels distinct and plays differently
++ Beautiful world design with unique concepts
++ Detailed Civilization Statistics easily accessed during the game.
++ Customizable Races and Units
++ Customizable Maps
+
+
+Neutral:
++- Unique map system that is cool but doesnt allow you to see the whole world at any one time
++- Quest system, while a positive at first glance, is poorly done and alot of quests 'break' easily, quest count is low which leads to lots of repitition
++- Unique 'Winter' system, while a positive at first glance, effects everyone the same and only slows the game down
++- No naval system for people that like water maps. I just turn water levels way down.
+
+Negatives:
+- No Key Rebinding and limited shortcuts
+- Lack of documentation. Tutorial/Wiki only give the broad information on how to play the game. Indepth game mechanics are not explained. There is no internal game library (like Civ) to explain these details either.
+- Bugs are addressed each patch. However there are still a few annoying ones that havnt been addressed since January.
+- The diplomacy system is better. Flavor text makes sense most of the time. Trade values are still iffy which leads to easy exploitation.
+- While each faction has a backstory, it is harder to work through some factions then others. Others can ruin your play if you try to follow them (as Drakken, try to take that one city all the way across the map, of the Ally you have been friends with since the start of the game)
+- The battle system IS unique. But in a negative way. Lack of unit control and poor programing lead to frustration. You give commands at the start of each battle round. Issues occur when your units cant follow your orders (which is often). The AI takes control of your units and sends them places which dont make tactical sense. (HINT: Make all of your units "Stand Ground" to avoid the crappy AI moves)
+- A full unit stack (6-9 units) can kill (literally hundreds) of weaker units and take tons of cities without taking major damage. There is no 'fighting your way back' in this game.
+- Taking cities is waaaayy to easy. You can easily take a close neighbors city within the first 20 turns.
+
+
+Major Negatives: ***AI is still pretty terrible.
+- It cant fight in battles. Once you get the hang of the battle system its easy to trick.
+- Makes no diplomatic sense. Never fights empires that are threats. Easily bribed.
+- It cant build 'strong' armies. It doesnt upgrade units early/often enough.
+- AI technology selection doesnt make sense (Dust based civilization skips 3 dust boosting techs). They also routinely skip "unskippable" techs.
+- Kinda stops playing if they lose majority of empire. Never see more armies from them or any switch from horizontal to vertical gameplay.
+- Doesnt play to victory type. Playing conquest victory? Every AI empire is fine playing an economy based game as one empire slowly takes out empires one by one.
+
+
+Final Statement:
+The game is in much better shape then when i started playing in November. I last played during th beta release of the expansion pack. AI still needs work.

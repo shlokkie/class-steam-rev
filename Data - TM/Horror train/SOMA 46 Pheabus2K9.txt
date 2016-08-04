@@ -1,0 +1,41 @@
+TL; DR
+Pros:
+  Strong narrative & interesting story;
+  Remarkable art direction;
+  Excellent sound design.
+Cons:
+  Amateurish voice acting of the main protagonist;
+  Tedious monster encounter in the later levels.
+Neutral:
+  Slightly outdated graphics but excellent use of lighting;
+  Deja vu game mechanics but suites the game's setting surprisingly well.
+Verdict:
+Highly recommended for any sci fi or horror game fans, even if you're not into the horror genre and just want to enjoy a good story. See the "Tips" section below for more details.
+
+The Long Version
+Upon finished SOMA, I can safely say that Frictional Games, the Swedish dev renowned for psychotic horror titles such as Penumbra and Amnesia series, has outdone themselves once again, I was amazed by how much thought was put into this game, as well as the emotional impact it creates. It's a masterpiece in certain aspects yet falls short in others, the details are explained below in sections(*slight spoiler alert*):
+
+Story 9.5/10:
+Why SOMA isn't your average horror game is that it puts more emphasis on the story rather than horror itself, a sci fi fan can easily pick up the core concept of SOMA because it features similar elements from classic titles such as Total Recall, Blade Runner, 2001: A Space Odyssey and Bioshock series, yet by combining them with excellent narrative and presentation the devs still managed to create a unique feeling out of SOMA, during the gameplay I stopped more than once to think about the plot details, and watching the ending made me totally speechless for a while. The tradeoff, however, is a bit "story over gameplay" in this title and I can understand this might be frowned upon by some fans, but I applaud Frictional Games for willing to take risks in creating such a compelling experience.
+
+Presentation & Narrative 9/10:
+You find yourself in an abandoned hi tech base haunted by crazy monsters, while you have to find notes and solve puzzles to advance the story, well this is what we've done for 1000 times in other games. However this seamlessly fits in SOMA's setting, as you navigate through the vintage style computer interface and read scientific reports throughout Pathos II, the story gradually unveils itself in a unique but cohesive way. My only gripe about the story is that the protagonist, despite being hinted multiple times about his ultimate fate, only to realize the situation in the last few seconds, this "dumbed down" feels forced and not clever writing.
+
+Sound 8/10
+Another feature that makes SOMA stand out is excellent in game sound design, the ambient sound like machine beeping , distant monster groaning, suspicious noise like footsteps, as well as the water flowing sound in the sea walking levels are all amazingly done, which creates a unique, immersive and haunting feeling. The music, while I didn't feel its existence for most part of the game, did reminds me of scores from Blade Runner and Space Odyssey in later part, and it complements the atmosphere gloriously.
+I found most of the NPC voice acting very well done and Catherine's voice is especially brilliant, but I can't say the same for the main protagonist's voice: it's unnaturally calm considering all the things happening around him, and for most part it feels like a student reading a textbook, while this more or less explains his not so smart mind it just takes away lots of immersion the game manages to create.
+
+Graphics & performance 8.5/10:
+Slightly outdated but gets the job done fairly well, there're some low res textures here and there as well as color banding issues, but the game looks really beautiful during the seabed walking scenes and in the later interior levels due to the well used lighting. Early on I've heard lots of complaints about the game's performance issues but in my play through I experienced no stutter and bugs, so I guess the early issues have all been fixed.
+
+Gameplay 7.9/10:
+As I previously mentioned, the whole Pathos II base is presented to the player with remarkable detail and authenticity, you can pick up a large variety of small objects as well as drag open doors & drawers in a realistic way, although the physics in this game is more cosmetic and doesn't play a vital part as in titles like Half life 2, it adds a great amount of immersion to the gameplay.
+However, the "real" gameplay is a mixed bag for me, despite walking on the seabed chased by monsters is nothing short of thrill and brilliance, and the fact that the devs tried to create a diversity of monster behaviors, the core mechanics (crouch, peek & hide) coupled with the chromatic aberration screen effect caused by panic/ monster attacks inevitably make the gameplay more like a chore than interesting interaction, especially in the later phase, like you're in a pitch dark room but can't use flashlight since that will immediately attract the monster, as well as some linear and uninspiring chase scene, this makes the last 1/3 part of the game more like an interactive movie and less like a video game, which is kinda disappointing.
+
+Recommendation: If you're a fan of psychotic horror games and good story, this is a must buy for full price to support the indie developer. However if you're less interested in the story and prefer more "hardcore" horror gameplay you may want to pick this up on sales, because the gameplay is kinda weak and game can be finished under 10 hours.
+
+Tips:
+  For gamers can't deal with the monster encounters I recommend the WUSS mod, this makes most of the monster in game harmless and allows you to freely explore the levels to fully enjoy the awesome story.
+  You can use ReShade/SweetFx[sfx.thelazy.net] to enhance the slightly dated graphics, post process effects like Depth of Field, Ambient Occlusion, Tonemap, Vibrance and Curve work wonders on the dull vanilla colors.
+  You can enable the debug mode to utilize developer features like quick save (F9) and quick load (F10), as well as pause game (F2) and free camera (F7), the latter is handy for taking screenshots.
+If you got more useful tips please feel free to share with me, I'll be glad to add them here.

@@ -1,0 +1,31 @@
+Endless Legend is a solid fantasy 4X that has gone in some interesting directions with style. It seems like a game that would be best played again human opponents (not that I have had the chance), but the AI on harder difficulties still pose a challenge. It doesn't bring anything terribly new to the 4X genre, but neither does it fail terribly in any respect. I'd seriously reccomend getting it on sale, and if you're a 4X fan, I'd tentatively reccomend it at full price.
+
+What I like:
+
+Tech tree seems well rounded, and contains enough content on a standard-sized map, facing the default amount of enemies (5), on the standard game speed, that I wont come close to exhausting research options. The need for completing X number of techs of one tier before accessing the next finds a nice balance between depth and breadth in research.
+
+Similarly, there is enough "map content" that I'm still coming across new resources, minor factions, and anomolies fairly late into a standard length.
+
+I like the region system, where the world map is broken up into pre-defined, randomly-shaped regions. Each region can host a number of different terrain and features, but only one city, so city placement within a region has an impact on empire development (though this fades with time, as modifiers from buildings and population begin to overshadow those of the terrain).
+
+Ridges add some depth to both exploring and combat.
+
+Factions play fairly differently, with many of them operating under different mechanics.
+
+Summer/Winter mechanic makes for some interesting scenarios.
+
+Being able to customize the weapons, armour, and accessories of standard units, as well as upgrading these on existing units helps keep most units from becomming obsolete as the game progresses, and allows you to invest significant resources into specific units, should you desire.
+
+Some things I don't like:
+
+The game needs another pass of bug testing. It's not unusual to encounter crashes and hangs, and I have encountered the odd game-play bug.
+
+The AI is inconsistant, and varies is competence from one game to the next, within the same difficulty setting. One game an AI may be a clear threat, other games the AI barely seems to handle the basics.
+
+There are some equipment combinations that are clearly superior, leading to less variation than the number of options would suggest.
+
+The learning curve is steeper than it should be, thanks mostly in part to a lack of in-game documentation and tool-tips, and mechanics which are not adequately explained. A number of mechanics will make sense once you've realized how they work, but getting to that point is more difficult than it needs to be.
+
+Tactical combat doesn't have a lot of depth, and becomes tedious. At the same time, auto-resolution tends to kill off too many of your units. This is the worst situation a 4X game can force you into: choosing between bland combat or taking unnecessary losses.
+
+Summer/Winter mechanic can be downright annoying. Some quests are turn-limited, and the untimely arrival of winter will make them impossible to complete.

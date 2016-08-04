@@ -1,0 +1,52 @@
+For years I've spoken praises for the Total War franchise; and I can say that I have played hundreds of hours of Medieval 2 alone, not to mention similar investments in Empire, Shogun, and Rome II. But alas, the time has come where I can confidently state that I will not buy another Total War title, for Rome II was the last straw. The Franchise has been devolving since Medieval II. 
+
+TL;DR at bottom.
+
+I was originally hooked back in 2007 on the first incarnation of Rome: Total War, and I was completely STRICKEN with it until I was exposed to the "hotseat" variant for Medieval II: Kingdoms. To this day, many of my friends and I continue these hotseat campaigns through the Retrofit mod, and it has become somewhat of a ritual for us. Since, we have hoped for a Total War experience that would capitalize on this feature and maximize the idea of a "multiplayer campaign." Since, we have been disappointed time and time again. 
+
+Empire came promising a new multiplayer campaign that could be played on a massive scale that included three entirely separate theaters! Unfortunately, unlike the hotseat function, only two players could be present, and this alone was enough to shy my friends from buying it (not to mention a very limited selection of factions, and no ability to edit the descr_strat.txt to unlock all factions. . . but no matter! A simple mod fix, I thought!) but I had to try it. After having my all time favorite campaign as Prussia, Empire had my praise. I persuaded a friend to play this "Beta" campaign. We did, and indeed we found it to be exceptional. We could even play as the enemy faction during battles to surmount the jagged AI which for YEARS was found to be lacking. Then, after 10 turns of greatness, the dreaded DESYNC. We trouble shot for hours on end, digging through the internet to find answers  to no avail. Plenty of others had the same issue, but there were no answers? How curious. Even following "a one month delay for the release of Empire" (Quote Wikipedia) they couldn't fashion a working version of the Multiplayer campaign? No matter, I thought; a failed project. Perhaps they will fix it in the near future. Unfortunately, despite taking my money and making a promise, to this day no fix has been issued. A "Beta" they called it  not worthy of a fix, despite having delayed the game launch. Buy Napoleon, they said. Quote the Creative Assembly; "This beta programme was designed to offer a taste of the exciting multiplayer gameplay we were integrating into recent titles, such as Total War: Shogun 2 and Napoleon: Total War,"
+
+I ignored Napoleon entirely (although I was foolish enough to buy it) because of the puny map size and the pathetic faction diversity. These facts did not convince any of 'my party' to buy it, either. Despite a supposed "working" multiplayer campaign, where was the fun if you could not be Venice, Spain, or Greece? What about an African or Anatolian or, for that matter, any "small" faction whatsoever? I supposed it was because there was no audience for such things. I supposed that all of my desires were a niche and that only my group of friends were the audience. 
+
+Then came Shogun offering another attempt at a multiplayer campaign; still no hotseat, mind you. Again I felt hope that it could be everything I had wished, and again I gave the Creative Assembly my money. PLENTY of "small" factions, but little unit diversity! You could play with Samurai, or with Samurai; Japan is a very small place, after all. By the way, where were the nearby Eastern Korean or Chinese shores? Once more, Shogun did not interest the majority of my friends (for there was no hotseat function! No separate theaters of war! How difficult could it be to BRING BACK an old, yet fantastic idea? It could even be modernized and perfected!) but one other decided to take the plunge with me. I wasn't impressed by the lack of unit diversity, but I found myself well at home with the culture and the new agent system. The campaign AI was still clanky and had an absurd handicap budget, but at least the multiplayer campaign didn't desync! Or, thus I thought, until ALAS! The dreaded DYSYNC AGAIN! We were halted until we discovered the problem; each turn that passed seemed to bring the .sav file to a bigger size (just like in Medieval) and these new "packets" of data would build upon each other until finally, after enough turns had passed, our (I and my campaign partner's) .sav files were no longer identical. The fix? exchange .sav files via E mail and replace. Thus, the desync was defeated  but only temporarily. It would come back to haunt us every twenty or thirty turns and we would have to repeat the process. 
+
+NBD, I played Shogun with this friend of mine for many hours. We completed several multiplayer campaigns on Legendary (cooperating and surviving) and tried a multitude of factions to mix up our geographical positioning. I wanted more so I reluctantly bought the Fall of the Samurai campaign for both myself and my friend, whom is an adamant boycotter of DLC  fearing that each sale to The Creative Assembly is another encouragement for MORE DLC. I foolishly purchased and gifted him a copy. We went on to play two more Legendary Coop campaigns both for and against the Imperials. Even with the presence of the Westerners, there STILL was no Korea and no China. 
+
+I must admit over the years my desire to play SP campaigns has died down, and I've been looking for something to do with friends more than to do with myself. That said, I've played ample SP campaigns for each title, with the exception of Napoleon. I've played ample MP campaigns on Shogun and Rome II, and I've invested hours of effort into attempting the Empire Beta, both LAN and online. As I said earlier I still do Hotseat campaigns with my mates to this day, and we have one rotating right now. 
+
+TL;DR
+
+ROME II REVIEW:
+
+My rating: 5/10 MP campaign, 3/10 SP campaign
+
+PROS
+  Decent/good battle AI
+  Armies/Navies more personal/customizable
+  Decent campaign AI
+  IF YOU PAY FOR IT, reasonable unit diversity, 
+CONS
+  OVER HALF AVAILABLE FACTIONS ARE DLC. TERRIBLE FACTION DIVERSITY.
+  MORE THAN HALF CAMPAIGNS ARE DLC. INCOMPLETE GAME THROUGH and THROUGH.
+  Non tradable tech tree. Uninteresting tech.
+  No multiple theaters
+  Army units are glued to their generals, unlike previously
+  Battle AI still somewhat reliant on stat handicaps
+  *nonfrequent* Desyncing multiplayer campaign, limited 2 players
+
+CONCLUSION
+
+So, what's my point? Each game had its admirable traits, but the Creative Assembly continues to swing and miss. Gradually they have lost their innovation and they are trying to get away with selling more DLC. IT IS UNBELIEVABLE and honestly quite INSULTING to me that the GREEK STATES are DLC. (Or preorder contents in my case.)
+
+To be honest, I DO have fun playing Rome II, but I think it is an UNFINISHED product. There are tears in the graphics, many unit animations look mechanical, the load times are substantial, and half the game is DLC. IF none of the game were DLC, I would rate it 9/10 and call it a fantastic game, even if it was at the expense of my ideal Rome II. 
+
+SO what would be my ideal Rome II? A blend of traits from each total war.
+
+Medieval II: Hotseat campaign / Unit and faction roster diversity
+Empire: 3 theater world map / political, systems / gamechanging, tradable tech 
+Shogun: Good agent system 
+Rome II: Customizable armies / Dynamic naval application / Good AI / cultural differences
+
+NO FACTIONS DLC. NO CAMPAIGNS DLC. DESYNC FREE MULTIPLAYER CAMPAIGN. HOTSEAT WITH REALTIME PLAYABLE BATTLES. 
+
+I have NO reason to believe ATTILA will be anything but a graphical UI revamp, and thus NO REASON to believe the Creative Assembly deserves another dollar of mine. They are selling content that is in every respect UNFINISHED.

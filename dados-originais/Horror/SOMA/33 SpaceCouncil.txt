@@ -1,0 +1,29 @@
+I'm not much for horror games as I'm extremely susceptible to jump scares. I tend to scare myself before the monster gets a chance. So its safe to say this game a fair bit out my my comfort zone or so I thought.
+
+I had heard of this game a while back but I had dismissed it completely being another traverse the scary dark hallway game and wait for the monster to get you. Until someone brought it back up and I decided to actually give it a chance. The second I saw a robot unconvincingly speaking to the player regarding his robotic body I was sold. I didn't even care if this game was going make me poop my pants or not.
+
+I had some major snafus however, it would be better for me to just list them and get them out there to ward off would be haters of early criticism.
+
+- This game frequently crashes, I'd say around 10 times all throughout. Which wouldn't have been a huge issue if I had not been forced to sit through the same dialogue and repeat puzzle sections. I will mention however you can save anytime yourself (down to your exact position) though it requires leaving the game and returning after a loading screen.
+
+-The monsters are not super scary. Even for me. Hiding and waiting is not fun. There is no way to stop the creatures from.. doing whatever it is they do to you when they get too close.
+
+- The game seems to be poorly optimized. Chugging for no apparent reason other then having a difficult time loading the next area. Texture pop in and single digit frame rate. I'm running a GTX770 and should have no problem getting 60 frames even at max settings which brings me to my next point.
+
+- The visual, GFX, video settings leave something to be desired. The only AA option being FXAA. Which is better than none I suppose. There are still options for Bloom, V-sync and SSAO but that's about it. There are many particles floating about so its only natural to expect some frame droppage from time to time even in a dimly lit corridor but chugging to single digits and crashing, frequently, just seems like poor optimization.
+
+Now for the good bits.
+
+The story is the main draw here. I am a self professed 'fan' of narratively driven games. I hate doing things without context and there is no shortage of that here.
+
+The prologue introduces you to the mechanics of the analog control over things and general overview of who the player character is. Without revealing too much Simon is essentially a guinea pig for an experimental treatment for a condition causing very strenuous headaches. Being as ambiguous as possible, the treatment requires placement in a machine in which brain scans take place. A sort of new age MRI. Simon takes a seat, the machine starts and so does the adventure.
+
+I really really like the story, its excellently told. The voice acting is excellent, The world building is great and it will make you want to explore to find another terminal or notepad to read another email or scribblings of minds gone awry. The ending is very satisfying and altogether perplexing in the aspect of what the term 'alive' actually means. I'd go as far as to say that humans of any variety lack the vocabulary necessary to convey the idea properly.
+
+I love the art direction and level design so much, that at times I wish there were a way to stop the creatures from being around. As in, have the tense moment of fear and satisfaction from outsmarting the enemy but then allow the player to explore the environment unimpeded. Now the strange aspect of the creatures is they are very lumbering and sort of silly, almost lobotomized. As long as your flashlight is off and you're crouched you become almost completely invisible. And in the off chance you are caught. (They sense you electromagnetically, very lore friendly) They are easily outrun. I'm told it has a very Alien Isolation feeling to the tension.
+
+Your character is able to get what are essentially audio files from dead corpses and other devices for reasons I'd rather have you explore yourself to find out. The reason I even bother to mention this is when listening to these files your character is immobile which for pacing reasons seems like an odd choice.
+
+The story seems to pull from a number of different areas for inspiration. I don't mean to name drop as I don't believe mechanically it compares but as far as story elements go it reminded me of games such as System Shock 2, Cradle, and The Fall. As well as other sources such as Hugh Howeys Wool series, or his short story Halfway Home. Which I absolutely adore all of those and wholeheartedly recommend as well.
+
+This came out of nowhere for me and I'm glad I didn't miss it. To be honest the last game that blindsided me this bad was the original Dead Space.

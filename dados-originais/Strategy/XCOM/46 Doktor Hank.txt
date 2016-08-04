@@ -1,0 +1,48 @@
+"It's ruthless, it's punishing and it's fantastic."
+
+— Beaglerush, XCOM: Ironman Impossible Season 1, Episode 1
+
+Note 1: I've played on Windows and Linux (thanks Feral for the Linux port!).
+Note 2: If you're going to play the game, check the comments for a list of useful resources (websites and mods).
+
+Gameplay
+
+Gameplay is divided in two sections: the base management component and the actual turn-based tactical combat.
+
+The base management part is very streamlined. You build labs, workshops, satellite arrays, order new equipment, choose your research projects, hire new soldiers, and so on. Basically, you'll be stressing over budget and deadlines ("How many sectoids corpses and UFO parts do I need to sell to build that satellite to save Egypt? Wait, what is this? Dang it, 1 month to research a half-decent armor? Should I get more scientists?").
+
+But of course, the core of the game are the field missions. Every in-game month you get roughly 4 or 5 of them. Most of the time your goal is simply to eradicate all hostiles targets. Every now and then you'll receive special council missions where you have to extract/escort a VIP or deactivate some bomb. In addition to all that, the Slingshot DLC adds three story-driven council missions and the expansion pack Enemy Within includes another set of linked council missions (you have to enable them before starting a new game[i.imgur.com]).
+
+The combat requires some thinking. You'll be controlling a small squad (usually 4 to 6 units). If you move your soldiers around like they're a bunch of kids high on sugar, you're going to get your butt handed to you on an alien platter before you can say "yolo swag 360 noscope". So, don't spread your team out! Instead, keep them tightly together if you haven't engaged the enemy yet. This is especially true if you're playing on Classic or Impossible difficulty. The first time I played, I thought the game was stupid and obscenely unfair, but upon reflection I realized I was playing too aggressively and with complete disregard to the true nature of the cover system. With that in mind, learn the strengths and weaknesses of each soldier's class (assault, heavy, sniper, support) and how the cover system really works. Always go for full cover. Most of the time half cover is a big fat NOPE! If a soldier is in half cover and you can't take the alien down in your turn, hunker down or move to full cover! When attacking, your chance to hit is based on a lot of factors as the aim skill of the soldier, type of cover of your target, range, weapon used... The RNG can be a real pain: you're going to miss some 90% shots so always have a plan A, B, C, and D before pulling the trigger.
+
+There is a decent variety of enemies. During most of the early-mid game you're going to be completely outmatched by the aliens. But in the late game, you'll have access to some sweet, sweet gear and, with the Enemy Within expansion, gene mods. At first they may look OP, but in reality the aliens scale with you (damn you, mind-controlling Ethereals and nightmarish Sectopods who take only half damage from all hits. Seriously, curse you!).
+
+Aesthetics and sound
+
+Greg Foertsch, the art director who also worked on Civilization IV and Alpha Centauri, did a stellar job designing the visuals of XCOM. The levels feel dark and creepy, yet the colors and effects are incredibly vibrant. XCOM really breaks the old stereotype of the awesome-but-terribly-ugly strategy game, as you can see it for yourself in the screenshots: (1)[i.imgur.com] (2)[i.imgur.com]. My only complaint is about the textures, even on PC they are basically console-level quality. Usually you're going to look to the battlefield from a considerable distance, so at least it's not that big of a problem.
+
+What about the soundtrack? Epic, just epic. Nothing will get you more in the mood of kicking some alien scum ♥♥♥ than the badass deployment song. Kudos for Michael McCann. The guy also did the soundtrack for Deus Ex: Human Revolution, so his work speaks for itself.
+
+Story
+
+XCOM is not a narrative-driven game. The story is simple: aliens are invanding and your job as commander of XCOM is to lead Earth's finest soldiers against the bloody barbarians. So how this game can elicit such a wide spectrum of emotions, throwing the player in a mix of grief, anger, and joy?
+
+Why XCOM is so good?
+
+Every soldier you get is assigned a gender, nationality and, when he or she is promoted to Squaddie, a random class. Everything else is up to the player. You can edit name, nickname, change physical appearance, choose special abilities, and so on. Differently from other strategy games like Age of Empires or Total War, you're not controlling a vast army of faceless cannon fodder. In XCOM, you typically have a roster of 15 to 25 men. After some time it's inevitable to start forming a bond with your soldiers. The game is hard, is brutal, and it was meant to be played with Ironman enabled, that is, no save scumming, no reloading, no undo.
+
+While some games are like a dull superhero movie, where you're never in real danger and you just steamroll your foes, XCOM is more like Shingeki no Kyojin: your enemy will outclass you in every way, eat your best soldiers alive and make the rest go back to the Skyranger ♥♥♥♥♥♥♥ in their pants and crying. The thrill of battle, not knowing whether or not your men are going to survive, and the dreadful challenge of facing an unknown enemy: that's XCOM. Well Commander, it seems your wits and courage are the only hope humanity has left.
+
+A last note about the DLC
+
+Already have XCOM: Enemy Unknown? Maybe you got it for free voting for the Golden Joystick Awards 2014? There are two small DLC:
+
+    The Slingshot Content Pack adds three new missions, an unique character, and five new achievements.
+    The Elite Soldier Pack just add a few comestic options for customizing armors and one new hairstyle.
+
+
+As you see, they're kind of cool but not really necessary. Maybe if there is a nice sale and you have some money laying around...
+
+Now, the must-have is Enemy Within, the third big one. It's an incredible expansion pack with a lot of new awesome content. New items, new aliens, new human (!) enemy faction, genetic modifications, and MEC Troopers. Yeah, you read it right. Freaking M-E-C-H-S! I can't remember a more satisfying moment in my recent gaming history than the first time my Norwegian mech Odin falcon punched a Thin Man in the face!
+
+If you don't have XCOM: Enemy Unknown yet, grab the "XCOM:Enemy Unknown Complete Pack" when it's on sale. It includes everything and with a 75% discount it's a total steal!

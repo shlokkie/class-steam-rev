@@ -1,0 +1,34 @@
+A fascinating take on 4x games that's too poorly documented and fiddly to recommend.
+
+--Pros--
+Some of the most specialized factions I've ever seen in a 4X game. They each get unique units (different classes of units, not just stat modifications) and have dramatic civilization modifiers, such as the roving clans faction that get significant economic benefits but cannot declare war.
+
+Cities are limited to 1 per (fairly large)province, which prevents overcrowding while still giving a lot of freedom in city placement.
+
+On top the usual forest/grassland/river tiles you would expect, there are also a plethora of "anomaly" tiles, which give powerful and unique bonuses. Each province usually has 1-3, which coupled with terrain + resources contributes to each province having its own flavor.
+
+Interesting and varied quests.
+
+Almost all heroes and units can be customized.
+
+You can integrate a wide variety of minor factions (each which their own bonus and unique unit) into your empire. However, you can only do this with 1-3 minor factions, so this choice is nice way to further customize your faction.
+
+
+--Cons--
+Extremely poor tutorial and in-game documentation. Unlike the Civilization games, there's no help menu or in game tips. You're just kinda thrown in to flail.
+Finding and reading the 60-page manual (an online pdf) helps, but lots of important mechanical details (especial faction-specific) are still not explained and need to be uncovered by coincidence / trial and error.
+
+Examples: The cost of a technology scales based on the amount of technologies you have, INCLUDING those acquired from quests or trade, meaning you can accidentally sabotage all your future research by completely a quest for a technology you didn't need (PS: It's impossible to cancel quests.)
+Even though cultists only have one main city, they get 10% of the strategic/luxury resources from a province where they have a converted village IF they have the appropriate mining technology (technology which you would never research unless you knew this rule).
+
+As an additional frustration, this game was in early access for a while and it can be hard to tell which wikis or forum posts have outdated information about how the game's systems work.
+
+The battle system is really bad. It's hex based like HoMM or King's Bounty, but instead of specifying moves, you specify intent. However, after 40+ godd*mn hours, I'm still not sure how to get my archers to just attack something convenient without suicidally charging into the fray. Additionally, when attacked, a unit must counterattack, consuming it's action. It's an interesting way to make initiative matter, but now you have imprecise commands which are ignored half the time anyway, and the combat frequently feels like a comedy of errors.
+
+Additionally, combat takes place on the geography of the world map (but with cities and uninvolved units removed). Even leaving aside coastal battles (where you might not even be able to deploy most of your army because you had a sea at your back) the geography complications can play havoc with your units' AI.
+
+There's a bunch of other minor inconveniences, like being unable to see a unit's abilities at various points where that information's important. Or being given a settler when razing a city, and being unable to sell him (meaning you just pay upkeep the rest of the game, unless you want to expand or suicide him.)
+
+
+--Conclusion--
+For all the cool ideas the game brings, I was too frequently frustrated with the lack of information or the fiddly mechanics. That said, if you're a very patient person who's interested in the unique elements of this game, I could see you having fun with it.

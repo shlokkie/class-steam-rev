@@ -1,0 +1,38 @@
+Rome II has a few nice features the original Rome Total War lacked, like cavalry being able to dismount for assaults on cities ; and a battlefield AI which, after patching, is reasonably competent and doesn't throw it's generals in immediately to their deaths to try to run down a unit of skirmishers. Unfortunately it not only drops many of the most interesting, enjoyable and atmosphere enhancing features that were in the original Rome, but also implements many features in ways that destroy game-play, believability and historical accuracy. It also seems unfinished
+
+The province system in which cities are grouped into provinces in which buildings in one city affect every city in the province held by the same faction is interesting, but the way buildings work is pretty annoying.
+
+You can research technology, but the starting tech isn't even bronze age - you need a tech advance for battering rams and ladders.
+
+The level of detail you can see in your settlements population, happiness/unhappiness, squalor etc is massively reduced as is info on where income and trade income comes from.
+
+The political system and 1 year turns result in generals being recalled or dying as soon as they get any significant experience or skills. Agents don't last much longer.
+
+The stylised icon interface is annoying and not intuitive.
+
+The AI and pathfinding bugs in assaults on walled cities are pretty terrible even after 6 patches and one beta patch. The AI still can't pick up, put down and use ladders, rams or siege towers effectively the way it could in the original Rome Total War ten years ago or Medieval 2 Total War 7 years ago.
+
+There are over 100 factions, but many are out of period or just made up, including client states like Carthage's two ; and they slow the AI turn down more and more as the game progresses.
+
+Worst of all are the instant super transports. Any army can create transports to carry it by stepping off a beach, for free. They're capable of fighting in sea battles and beating any starting fleet whether in auto-calc or not by weight of numbers. 
+
+Every faction from Scythian nomad horse archers to Spanish and African tribes goes for a sail in the Mediterranean, with nothing much to fear from enemy navies. Factions which lose all their cities also take to the sea. They then either float there till they slowly die, or hover off the coast forcing you to place armies in all your coastal cities for dozens of turns until they slowly die of attrition, or else they take cities by avoiding your land armies and acting as vikings. What? Build fleets to hunt them down you say? But you can't afford to - ships for fleets take time and money to build and require pay. Instant transports don't - and your own field armies are tied down on land preventing them from coming back by sea.
+
+Bizarrely the game designers have decided that transports should be just a slightly inferior version of a large oared warship with the same hundreds of oarsmen and ram and sleek design as a warship. In reality in the Roman and Hellenistic period transports were usually commandeered merchant sailing ships, because they could carry enough troops, horses and food and water for them. Oared warships were good for ramming, boarding and raking the oars off of enemy ships - but all those oarsmen and the narrow hulls to make them maneuverable left them with no room to carry more than a few marines. They usually followed coastlines so they could land to get food and water for the oarsmen each day - and so they could land if there was bad weather as oared galleys were not very seaworthy. Yet insta-super-transports somehow fit hundreds of soldiers, horses and elephants.
+
+Unlike in the original Rome you can fight out sea battles rather than just autocalc them. The ships and marines in sea battles look great, but the way sea battles work is pretty lamentable. Boarding is made very easy. No need to use grapples (iron hooks on ropes) to get close to an enemy ship to board it, let alone use a corvus (rotatable boarding ramp with a spike on the end to go through the enemy deck) - bumping into them is good enough. Even more ridiculously, once one ship is boarding another no other ship or marines can touch either of them.
+
+Historically smaller galleys could outmanouvre and defeat larger ships - as at the battle of Actium. In Rome II small ships are incapable of doing much damage to larger ones, even where the large ship is a transport or some lightly built viking style ship. Historically a small oared galley with a metal plated ram could turn faster than larger ships and immobilise them by oar raking (shearing off enemy ship's oars using ram). Or they could sink them by ramming broadside and holing it below the waterline. 
+
+Many major ancient cities such as Syracuse and Jerusalem, which the Romans had great difficulty taking by siege and assault due to their massive fortifications and inner and outer walls and citadels are in the game as unwalled villages and hamlets. This makes the game even more ridiculous and annoying for anyone who knows even the basics of the history – and makes no sense.
+Total War games can’t include every settlement, so they usually include the most important, largest or most strategically significant ones. By conquering a settlement you conquered the province it was in in Rome Total War. In Rome II this is called the ‘region’ with two or more regions grouped into a province. How could the most important settlement in an entire region be a hamlet or a village? Even ignoring the ♥♥♥♥♥♥♥ all over history, this makes no sense.
+
+Giving three quarters of settlements no walls seems like it was another cheap, rush option to minimise costs and so maximise profits. Have working siege AI? Nah - just re-use the engine from Empire, Napoleon and Shogun Total War but take the walls off most cities.
+
+Some attempt to justify this as reducing the number of "boring" sieges / assaults. In fact it reduces the frequency and size of field battles compared to Rome 1 or Medieval 2 Total War because in those games the player or AI required at least 1 turn and usually more to build enough siege equipment to take a town - and in that time the player or AI usually sent an army to try to break the siege - resulting in a battle with the relieving army on one side and the besieging army and garrison on the other.
+
+In Rome II you get lots of incredibly dull and annoying assaults on the unwalled town square against some garrison militia units instead. Field battles or assaults on an actual walled town using siege equipment would be preferable.
+
+The myriad bugs a requiring endless patching and missing features suggest it was rushed out incomplete and without even beta testing.
+
+Rome II runs poorly and with poor graphics on many PCs and laptops unless the Graphical Enhancement Mod is used. Mistakes made in the ongoing patching process make the game currently not run with mods. Anyone thinking of buying should hold off for at least 6 months and maybe a year or two till patching is over and better mods finished

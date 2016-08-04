@@ -1,0 +1,13 @@
+First of all, this game isn't optimized for 32bit systems and requires some unorthodox system tuning to make it work properly (or at all!). Why is it this way, when it uses now really dated Unreal engine, is a question for the devs.
+
+The game is not as nearly as scary as the hype made it out to be. A lot of horror is derived from gore, which is, in my opinion, always a cheap trick. There are some jump scares too, but they are not overused. The main terror factor is that you are completely helpless when confronted with anybody/anything that wants to hurt you and have to rely or running fast to a hiding place. This, combined with the camera's night vision mode provides the same effect as one we already seen in Amnesia: A Dark Descent.   player is left feeling vulnerable and helpless, the feeling that is only strenghtened by main characters unwilling sobs and heavy breathing. On the other hand, the fact that it takes several hits for enemies to end your life (at least on normal difficulty) diminishes the overall feeling and could have been made harder on the player.
+
+Music, environmental sounds and animation have all been done beautifully and with much detail and serve to enrich the environment and the atmosphere. Graphics are solid, even rough at places (some textures look like from a 10 year old game), so it only adds weight to the question of unusual system requirements.
+
+The story is told via documents you find while roaming through the asylum, notes that the protagonist makes and, on a rare occasion, by NPC characters you interact with in some way. This is a formula used by many games, but it has not been done well. It's both hard to follow and uninteresting (several cliches jumbled one atop another), so you'll probably stop caring somewhere along the way, which kinda defeats the purpose of you playing as a journalist who wants to expose what has been happening behind the walls of the asylum.
+
+There are some interesting moments to the story though, but they revolve around things that concern the player and not the 'big picture'.
+
+Overall, even though not a masterpiece of horror, Outlast is still quite enjoyable and is bound to send more than a couple of chills down your spine. 
+
+7/10

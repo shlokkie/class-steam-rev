@@ -1,0 +1,17 @@
+I wanted so badly for this to be good. I'm dying for a good 4x that provides a real challenge in the form of good AI rather than simply giving a dumb AI more resources. 
+Heres my take:
+
+The Good:
+-Graphics are great (Subjective)
+-Most files are in XML form so many facets of the game can be modded/edited to your delight.
+-Expansive tech tree varied by race/faction
+-Each race has specialized roles and perks
+
+The Bad:
+-Poor conveyance. Meaning you will have to do some forum hunting to figure out certain elements of the game.
+-Having good FIDSA where you place your capital can make/break your game.
+-Painfully easy (subjective)
+-The AI is SHARED by different factions. This means that what one race will say to you, and the tactics they use against you, are the same as any other AI race. The only difference in tactics are their use (albeit poor use) of the given faction's unique abilities. There are TWO AI paths: Minor Faction and Major Faction, thats it!
+-The AI is dumb. They will lay seige to undefended cities instead of taking them. They will STAND STILL while being fired upon if they cannot reach you within 1 turn (sometimes but still). In a scenario where I set every faction to be aggressive and incapable of diplomacy, the AI simply wanders about aimlessly in a semi-confused manner while you build up to a point where you're already unstoppable.
+
+I really like the concept of it all but the ability to faceroll "impossible" enemies simply isn't fun for me. I don't like the feeling of "holding back" just to give the AI a chance. Thus I regretfully give this a thumbs down.

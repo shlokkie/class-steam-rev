@@ -1,0 +1,73 @@
+(Scroll down for the TL:DR if you don't have the time to read. My take on SOMA is a bit on the long-ish side :D)
+
+
+The Gist of the Story
+
+Soma is an intriguing game about Simon Jarrett. Due to a grave injury, Simon’s young life is cut short. With his impending death on the horizon, Simon turns to a David Munshi for Simon’s last resort since Munshi is working on technology that could save Simon’s life. Later on, after the initial tryout of Munshi’s machine, Simon wakes up to an unfamiliar place filled with robots, friendly or not, and some kind of cancerous growth (that’s actually an AI system that has gone rogue), called the Wau, slithering anywhere it can go to.
+
+Confused, Simon begins seeking for answers and soon meets with Catherine Chun, a researcher in charge of the Ark project, an invention that holds the key to humanity’s survival. Catherine explains that most of civilization was wiped out by a comet and the remainder of human kind lives here in Pathos-II, a futuristic facility that hosts both humans and machines. She adds that if Simon helps her transport the Ark, there will be a spot for him in the Ark. Of course he agrees and with a goal at hand, Simon learns, throughout his expedition to the ends of the world, the ultimate fate of the residents of Pathos-II and the meaning of being human.
+
+-- --
+
+Did ya scare me?
+
+The scare factor of the game, on the scale of 1-10 (1 being, “me looking for something to scare me but couldn’t find it, no matter how hard I tried” and 10 being, “I ♥♥♥♥ my pants, I should’ve worn a diaper”), I rate Soma an 8 out of 10 (8 being, “Let’s NOPE out of here, please.”)
+
+Soma keeps things fresh by introducing a new enemy almost every area transition. These enemies are a slight variation of each other, with the exception of the patrolling robot at the beginning of the game. I am very glad there are multiple enemies because sometimes in horror games, there will only be one single enemy stalking you throughout the game and over time, the game’s scariness dulls downs if it doesn’t change its tactics.
+
+I won’t describe all the hostiles but there are 6 enemies in total. You can skip this part if you’re not interested in reading my observations about two of the monsters I liked.
+
+As mentioned before, I have two favorites and the first one is a monster that’s described as a person that was raised from the dead (because of the Wau). Its head comprise of bright, glowing, blue eyes (I’ll call him Many Eyes.) The enemy isn’t dangerous as long as Simon doesn’t approach or/and look at it. It’s slow and will observe you but in my experience it will never out rightly harmed you unless you do something stupid. However, the scare factor lies in how Simon’s vision will shake and distort upon gazing at this creature. It scared the hell out of me the first time.
+
+My second favorite is this crying woman. She’s similar to Many Eyes but she becomes more frantic if you walk towards her. You can stare at her for a period of time, as long as you maintain your distance. The scare factor with her is when you cross the line of her personal space. She screams and bolts towards you erratically and unexpectedly. You cannot image how fast I ran out of the room (in-game).
+
+The game doesn’t only rely on its monsters to scare its player. In conjunction with the ambient sounds in the environment, the eerie feeling that you’re not alone will manifest itself as you progress through the dark corridors of Pathos-II. Every clank, every murmur, every patter of distant footsteps will set up a creepy vibe that I enjoyed very much. If you plan on playing this game, please, I implore you to wear headphones!
+
+-- --
+
+Gameplay
+
+Simon can only run and hide. He cannot use any weapons and you as the player must rely on your wits to avoid danger. There are puzzles that needs to be solved to continue the storyline and I thought some of them were somewhat challenging. I found searching for things kind of annoying since the key items do not glint but I blame that part for my not so perceptive nature. There is no journal entries that updates so you can’t look back at your current objectives but you can always talk to Catherine for a reminder. There's no inventory as well.
+
+During my time in Soma, most of the hostiles are easy to outrun and in fact, there’s a visual cue when something threatening is nearby. The screen will start to distort until the monster is nowhere in the vicinity. Most of the time, they lose interest in Simon very quickly. At first, this bothered me but I realized this is a good thing. I don’t want to spend most of my time hiding and running away from the monsters. This way, it doesn’t ruin the pacing of the game and gives you enough time to absorb the atmosphere.
+-- --
+
+Graphics and Technical Issues
+
+Each level are beautifully designed with small details that shows that there were people living in Pathos-II before the tragedy struck. There are many graphical options to choose from to suit your needs and for the most part, I didn’t experience any hiccups, crashes, frame drops and bugs (Specs: GTX 970, i7-4790S, 12 GB of ram…so on and so forth). However, I have a friend who had a few crashes and some people are having problems launching the game. Visit the game’s Community Hub to learn more about these issues.
+
+-- --
+
+My Observations (minor spoilers)
+
+The story, in my honest opinion, is a tear jerker. The game doesn’t have a morality system (at least not to my knowledge) but at certain times, you are given a choice whether or not to end a life or let them continue on. It doesn’t seem to affect the story but it does make you think, “Is he/she better off dead or alive?” I struggled with this one but I always chose to end them because in most cases, these “people” are hooked up to this cancerous growth, called the Wau. What the Wau basically does is it tries to correct and fill in for whatever was destroyed within the body. In robots, it can heal minor malfunctions and at worst case, they need to be hooked up to it permanently until manual repair is done. In humans, the Wau wants to prevent the death of the human and as a result, the Wau restores the life of the dead, at the cost of the person’s individuality. Would someone really want to live this way?
+
+The ending is also bittersweet . It was well done, in my opinion.
+
+-- --
+
+Wrap Up
+
+Overall, from start to finish, Soma kept me on my toes. It took me 11 hours to beat the game and it’s a decent amount of gameplay for a $29.99 title. I highly recommend Soma to fans of horror games. You won’t regret it!
+
+Thanks for reading!!
+
+-- --
+
+TL;DR
+
+Pros:
+- Thought provoking story and interesting characters.
+- Multiple enemies keep the player on their toes.
+- Kept me on edge throughout the game
+- Beautiful graphics
+- Great ambient sounds and atmosphere
+
+Cons:
+- Reports of crashing and problems with launching the game
+
+-- --
+
+If you have the time, watch me fool around in Soma :D
+
+SOMA Video 

@@ -1,0 +1,6 @@
+1. Installs game
+2. Start new game
+3. Walks through Mount Massive Asylum Grounds
+4. Climbs construction ladders
+5. Entered first room (lights go out!)
+6. Exit game

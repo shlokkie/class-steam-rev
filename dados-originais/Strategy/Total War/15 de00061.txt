@@ -1,0 +1,67 @@
+
+I've been playing Total War games for over 10 years now. Newer releases are getting more and more sloppy in contrast to the work being done on graphics. The reason I chose not to recommend this game is because if you are looking for a Total War game to play among the countless that have been made, I would recommend newer titles. I have not played and title newer than this one, but I would like to hope that they would be more "fully developed" than this title. I am extremely dissapointed with this game series and I will not be purchasing any more future Total War games unless I hear good reviews from fellow die-hard TW fans.
+
+I bought this game on a black friday sale for 15 bucks; I would have kicked myself if I'd spent 50 bucks on it. For 15 bucks it is totally worth it. That being said...
+
+PROS:
+
+-Great graphics
++colors are not so vivid, giving a realistic appearance
+
+-Battle cries are emtional and excellently done
++although random soldiers' mutters are repetitive, they are usually context-relevant and humanize the soldiers
++Roman Auxilary Cavalry voice is AWESOME
+
+-Naval and land battle combination is cool, especially in siege battles
+
+-Can command 40 units at a time
+
+-Armies' unit cards are sorted intelligently (although this could be done manually in RTW 1)
+
+-Grouping settlements into provinces allows for more fluid management, especially once you've expanded to an empire
+
+-SPQR replaced by optional missions delineates gameplay allowing for a more sandbox campaign
+
+-Imperium levels and corruption, although extremely annoying, reflect the instability and brutality of the politics of ancient societies (and modern, for that matter)
+
+-Agents' passive actions (oxymoron?), such as Military Administration, Military Training, Spy Networks, etc., are cool.
+
+CONS:
+
+-Cannot play as Sparta without DLC (who pays 50 bucks and doesn't want to play as Sparta?)
+
+-Most historic battles are DLC
+
+-Units glitch on walls 
++many times when you tell them to move left, they first move right, vice versa
++in a Rome city defense battle I commanded, units on walls wouldn't obey commands or act at all
+
+-Naval battles are bugged
++ships sometimes will get locked into moving the direction they are facing; never stopping until they slide into a corner of the map
++naval artillery/missiles will lock onto a land target's last location within their firing range, continuing to fire after they've left that spot until you command the ship to turn around or move out of range (commanding the unit to stop does not stop their firing orders)
+
+-Cinematic kill sequences disrupt the combat simulation
++Soldiers attempting to pull back from combat will stop and turn around to engage in a fight sequence instead of simply being chopped from behind
++There are no backstap kill sequences
++cavalry kill rate while chasing routing troops is frustratingly slow since cavalry MUST kill with cinematic kill sequence when not charging
++one sequence, in particular, may involve a soldier striking over and over again for more than 15 seconds, digging him deep behind enemy lines without being stopped by surrounding enemy soldiers
+
+-AI has not been improved since I last played Rome: Total War Barbarian Invasion v 1.6
+
+-Blood and Gore pack acted as an "on" switch for delimbing of soldiers; no new fight sequences were added.
+
+-General's/agent's abilities do not reflect their actions
++you may now craft an agent to accomplish any sort of task; regardless of what actual experience they have
++generals essentially cannot remain idle without developing negative traits, unless they have already aquired their maximum of three traits
+
+-Agents are not as specialized and can be more powerful than armies
++it's easy enough to develop a powerful agent; powerful agents can cripple armies into not being able to move for countless turns.
++all agents can perform all tasks with some differences in outcome (reminiscent of Dragon Age 2 and Diablo 3's overbalancing of classes, removing stark contrasts in capabilities)
+
+-Extremely limited diversity of buildings in settlements
++settlements, even capitals, are not unique from each other; essentially only a few dozen mix/match possibilities with hum-drum differences
++no point in preserving old buildings from another faction since they get in the way of your 3-5 building slot limit
++cities' appearance in battle mode do not reflect your personal development of that city
+
+-Encyclopedia is poorly organized and disruptive of the game
++Previous titles simply required a right-click to open a single unit/building information card

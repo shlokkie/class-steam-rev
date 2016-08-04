@@ -1,0 +1,16 @@
+This is review for version 1.0.12 @ 2014/10/30
+
+Endless Legend is a 4X turn-based fantasy game. The world settings, background story and races are a little relative with Endless Space.
+
+Several awesome feature
++Gorgeous artworks, pictures and animation.
++Wonderful in-game music. And OST included for sure.
++Simple and neat UI design.
++Distinguished races with nice story.
++Interesting and challenging battle system.
++Customizable race and units.
++Mod support.
+
+-No hotkey instruction and no option to customize the hotkey.
+
+Generally speak, Endless Legend is definitely a masterpiece. If you like deep and complex gameplay, thinking and figuring out strategies, managing and expanding, you should try Endless Legend!

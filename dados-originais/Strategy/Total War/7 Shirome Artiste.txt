@@ -1,0 +1,63 @@
+A Review of Rome 2.
+
+So. Yesterday I finally decided, after crushing another army at shogun 2, to give Rome 2 a whirl.
+I'll mostly compare it to Shogun 2, seeing as CA&SEGA tried to surpass it's success.
+Now, I know about how hyped it was, and how much flak it's been getting since release, but I decided to give it the benefit of the doubt.
+
+Gameplay-wise, combat.
+Good points:
+All factions have different units, with slightly different statistics to boot, which makes for more varied combat situations.
+Statistics are now broken down in even more sections that can be improved upon.
+Units are thankfully still in 100+ range, so your 20 unit army is still large enough.
+Hiding has been slightly improved upon shogun 2, and LoS hiding is detailed a bit better.
+Garrisons are now meaningful enough that one unit of bowmen can no longer snipe down an entire city.
+
+Bad points.
+Morale. I don't know what they're thinking down there, but early units' morale is so ridiculously low that getting twenty casualties can send units into a shattered state.
+Differences in unit strength. Your basic units are so weak when people start fielding their mainstays that, coupled with that horrendous morale issue, they hold for a literal ten seconds before routing.
+Your land army can spontaneously and instantly turn into a fullstack navy on a whim, making real navies pretty much pointless.
+Defensive battles are made even easier by making any and all defenders able to rout, and having 0 morale bonus for being the last line of defense, which makes sieges a cakewalk.
+
+
+Diplomacy
+Good points:
+New requests: Non-aggression pacts, defensive alliances, military alliances, yes! Give diplomacy a function besides extorting money and asking for trade agreements. 
+The AI actively pursues diplomacy now, very rewarding.
+
+Bad points:
+The AI actively pursues diplomacy, like a toddler. Geography, war/peace status and relationships matter not to the AI, additionally they ask for the most ridiculous prices for mundane things at time, or ask senseless requests every single turn.
+Diplomatic relations are confusing and often nonsensical, even though there are way more actions that affect relations now.
+
+Gameplay-wise AI
+
+Good:
+AI now partakes in many more activities than before, and combines their land and naval armies in assaults now.
+
+Bad:
+Pretty much everything.
+AI in field battles goes in a near-straight line for your units, tries to send cavalry to a flank and then forgets about it, and battles devolve into a slugfest until they're out of units.
+AI on an offensive siege battles rushes your control points(REALLY NOW?) instantly, and that's it.
+AI on defensive siege battles...Stand their ground, even if they have no missile units and you're standing there slinging projectiles on their poor militia until the last arrow has been spent.
+AI sometimes inexplicably moves their army to who-knows-where when you're standing five feet from their capital, and leaves it wide-open for a quick siege.
+AI occasionally does seemingly senseless attacks with one or two units against a city or fullstack, and then obviously loses.
+
+
+Other things of note:
+You cannot, I repeat, CANNOT recruit any units anywhere, anywhen, except for straight into a general's army. So don't bother trying.
+Generals are near-pointless except for getting an easy elite unit.
+Expect graphical glitches and FPS drops, even on super-tier computers.
+Although there are several different factions, you are still very limited in your choices, which is a disappointment personally.
+
+
+
+
+Conclusion:
+Is this the TW game to rule all TW games? No.
+Is this game worth buying? If you're a TW type of game fan, pick it up for a campaign or two, though I recommend waiting for either fixes or it going on sale.
+Is it worth buying when you're new to the genre? No. If you wish to experience all that TW has to offer, Shogun 2 or perhaps medieval TW are the ways to go.
+
+Total score:
+6.5/10
+If you like the series, grab it if only for completionist's sake, if you are new to it or still in doubt, wait for fixes or it going on sale.
+
+Rose

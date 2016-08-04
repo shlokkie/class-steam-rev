@@ -1,0 +1,22 @@
+Amazing horror game mixed with a puzzle game!
+
++Compared to Amnesia: TDD, I found this one much scarier and also harder. (My opinion, seems to vary a lot between different people though)
++No loading screens that break immersion.
++Amazing sound design; you can't differenciate ambient or physics sounds from actual sound triggers. Every object has a unique sound to it as well.
++It's not really possible to "outsmart" the AI, and it got a whole lot better at hearing you as well.
++Really enjoyable story to it. You never knew what'd happen next!
++Visually incredibly gorgeous, especially for an indie game! Huge environments and pleasing to look at.
++No inventory system where you have to manage resources, everything is inside of the game world, which also keeps up immersion.
++There's many many monsters and they all work completely different.
++When loading a saved file, you get reminded where you left off and what you had to do. Helps a lot if you take longer breaks from the game.
+
+There's a few things I noticed, and while they weren't really too annoying while I played, I do want to mention them:
+
+-Still has a few bugs and crashes in it, which can actually make you permanently stuck at times (unless you reload an earlier save).
+-Some monster parts really stretch out and get tiring over time, especially if you have no physics objects nearby to lure the monster away with sound.
+-Not sure if this is only the case for me, but I've had incredibly long initial loading times. Around 2 minutes if I just launched the game and hit "Continue".
+-A few times, it was hard to see what you had to do in a puzzle, if there's something hidden behind a panel for example, it can be hard to find without looking it up online.
+-With the amount of names you get in the story, it's hard to keep track of who's who. Sometimes you hear a name but are unsure if it is relevant, if you forget who it is and what not.
+-The game has jumpscares. May add to the atmosphere/story, but mostly are just forcing you to be scared (especially the one inside of Omicron is just redundant and doesn't add much at all)
+
+If you are a fan of good horror games and liked Amnesia: TDD, this definitely will be for you!

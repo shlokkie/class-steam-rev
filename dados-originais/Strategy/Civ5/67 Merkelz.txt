@@ -1,0 +1,12 @@
+When you start the game make sure you have none of these civs in your game:
+-Greece
+-Aztecs
+-China
+-Huns
+-Mongolia
+-The Ottomans
+-Poland (Too OP, even for AI).
+-Russia (Extreme case of city spam).
+-Shoshone (Takes your luxuries before you do).
+-Zulus
+-*COUGH* gahndi *COUGH*

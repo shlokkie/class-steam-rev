@@ -1,0 +1,38 @@
+**Updated 4/26/14** All Future Updates will be found in chronological order as you continue to read.
+
+First Day Launch Review. Will update as updates come (to the best of my ability).
+
+For those who decide to look and say TL;DR - Great game, Worth the Price, Alpha = Better than any Alpha I have played, Missing Some features and directions, but will be fixed over patches as is known to happen with Amplified Studios.
+
+Let me start by saying, this is EASILY the best Early Access game I have seen come to Steam. It is already VERY polished for a game still in Alpha. The graphics are actually more impressive than I expected from an Alpha version. Glitches? Kept to a minimum so far, in fact, I don't think I have really seen anything that was more then a moment's annoyance.
+
+A previous review I read said, it takes too many clicks for a unit to make an action, compared to Civ. I disagree. I select the unit, tell it to walk to the tile i want, once its there, it pops up and says "Do this action?" And I can say Yes or no. Quite simple. Attacking another unit? Select your unit and click the other one. Very simple, not tedious, not a pain, and considering how much this game LACKS in direction at its current stage, its refreshing to be given instructions to understand.
+
+The game plays like a combination of Age of Wonders (I,II,II), Civ (Any), Fallen Enchantress and Endless Space. It takes the best part of each game, and mixes them together. Want an easy way to build you cities and manage your workers? Done. Want to have a little more control over battle but still have it streamlined so it doesn't bog down your game? Done.
+
+The Tech tree is similar to the Endless Space Tech Tree with a few differences. Right now, you can only research the Tech of the "Age" you are in. You gain levels in "Age" by researching so many of the previous "Age's" technologies. For example, you start at the First Age and can not advance to the Second until you have researched 10 technologies. The only catch on this is, you do not need to research certain technologies to unlock more advanced ones. For example, if you do not research Age One Weapons, you can still research Age Two Weapons. I am sure this is something that will be addressed in a later patch.
+
+I have so much more to say, but I just want to play! More updates and information to come!
+
+**Update 4/26/14**
+
+So now that I have some more time to expand upon things I wrote earlier, I am going to do my best to do so.
+
+So as I have said, this game plays like a combination of a few games. Most notably it feels like Fallen Enchantress and Civilization games. Allow the following to help explain what I mean by this.
+
+Fallen Enchantress - The biggest similarities come from how the units stack. You stack armies onto a single tile. You are also limited to how many units can be in a single stack. This is based upon your hero and your tech tree. There are roaming bands of armies (mostly made up of creatures) as well as the other empire's armies. When you initiate battle, you will also notice that it has a similar system that shows you how balanced the fight will be. It differitiates slightly from here though. You pick if you want your armies to play offensively, defensively or stay put. Then, your battle takes place on the actual hexagons of the campaign map, but it is limited to a small area. It does not go to a difference screen where the single hexagon turns out to be some huge 12x12 area inside of that single tile. This means that you can potentially start a battle in a part of the world map, knowing that they have to come through a bottleneck because of a mountain range with only one entrance. Once you start your battle, you have the opportunity to place your units in the desired hexagons prior to the fight starting. this allows you to protect your ranged by playing them behind mountains or cliffs and adds a nice level of strategy into the battle, while not becoming so tedious that you spend hours in a single battle (for example a Total War game where you might spend 10+ minutes arranging your armies perfectly). After you have placed your units, you get to choose what units target which enemy units. Then once the round starts, the action is streamlined and you are along for the ride. This helps streamline battle, but it does have rounds where you can re-adjust your strategy to ensure your victory. 
+
+*A quick note I will need to add more to later, they also allow you to upgrade/change gear on your armies just like in Fallen Enchantress. I will need to expand on this more later.
+
+Civilation - It is similar mostly through building and placing cities. You also have control over what your population works on in each city (i.e. FIDSI - Food, Industry, Dust, Science and Influence . You build expansions on your city, utilize resources in your region and basically control your settlements expansions.
+
+
+A couple quick notes I want to make here.
+
+* You can only create one settlement in each region. Choose wisely. You *can* still use any resource in that region, even if you are not settled next to it. This mainly makes you choose wisely when it comes to the resources available in the tiles near you.
+
+*Influence and Empire Direction - You use influence to choose the direction of your empire every 20 turns. I made the mistake (due to lack of instructions) of thinking this feature was not implemented. You do not just click the direction you wish to go, you must click and DRAG it to the marker line. I spent my first 60 turns before I realized this.
+
+*There is no tutorial. This is not a game to learn 4x strategy on. It is still being developed. There are truly no directions and you will make mistakes or wrongful assumptions. It may frustrate you when you do so. Save often, you will appreciate when you can go back 20+ turns because you didn't fully understand the consequences of an action you took so long ago, thinking it wouldn't effect you the way it did. I am sure a tutorial will be available upon release if not sooner. If you have any questions, you may also feel free to add me and I will answer them to the best of my ability.
+
+MORE UPDATES TO COME!! Check Back often please! Feel free to comment! If you find something lacking, please let me know so I can help you make more informed decisions!

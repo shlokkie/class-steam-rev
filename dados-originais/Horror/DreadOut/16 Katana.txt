@@ -1,0 +1,17 @@
+In terms of graphics or production values, I actually thought DreadOut kind of hit the mark well - no game with AAA graphics has ever really managed to feel tense or unnerving - it's that realm where graphics are hard to recognize or drab in which you can really feel unsure even about walking down a simple dark hallway.
+
+As it is, what puts me off of this game is the complication in figuring out what you're meant to do at times. Being lost and needing to explore is actually very favorable in my opinion - I HATE when a game becomes a simple matter of tracing objective markers. But for a long time, I was going several play sessions not figuring out what I needed to try next in the game, as after a certain point the entire school is available to you, with no hints as to where to go next.
+
+A couple of recommendations for the developers that might be pretty simple ways of improving parts of the experience:
+- When a ghost is first encountered, update the Ghostpedia right away. Also, provide a simple button prompt (ie, Tab, or the Y button) to go directly to that ghost's page. If someone's clueless as to the method of defeating it or strategies, that might give them some encouragment. (And after it's beaten, that's useless) To give players some breathing room, have the ghost start out with some "taunt" animation that takes several seconds in which the player can realize the cutscene's over, etc.
+
+- When the player has reached some new area in which there's something they need before leaving, don't let them leave until they have it; for instance, lock them in the left wing of the school until they take the puzzle picture from the crumbled balcony (at this point, I started re-exploring the whole school not sure where to go). This could be accomplished several ways. A) A demonic wall appears behind them and vanishes after they have the item (not great, as players won't think to check the wall again) or B) Have a simple one-way gate like a longer drop, and a normal locked door to escape, from which they need to obtain a key from the same spot. (For instance, maybe after taking the picture, the cat could be holding a key)
+
+- An alternative for my previous problem might be more focus on the Journal. I did follow the game's loading screen tips of looking at it when I didn't know what to do, but there were definitely points in which the top item (There is a locked cupboard, it could be useful) didn't take me anywhere useful, as I had only one guess where the key was, and no guess how to retrieve it. Maybe the top item could be highlighted, to show that that's what you should currently do as other objectives may not be available. For more detail, it could progress like this:
+:: With that ghost out of the way, the left wing's second story can now be explored.
+:: There are strange markings visible in the lobby from the second story.
+:: There's something strange about this picture...
+
+For a first game by a country that does not often do game development, it's a great effort. If you see this on sale under $5 and you enjoy horror games, I'd say go for it. But, currently it's not a lot to offer and can be kind of frustrating with its lack of player-information.
+
+(I will try to remember to update this when the second act comes out)
